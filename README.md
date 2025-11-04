@@ -1,4 +1,4 @@
-<img width="582" height="496" alt="image" src="https://github.com/user-attachments/assets/7ee00f4e-4511-48ab-b074-aa3e22786ca8" /># Baitap_web3_Linux
+# Baitap_web3_Linux
 Bài tập 3   : môn Phát triển ứng dụng trên nền web
 Giảng viên  : Đỗ Duy Cốp
 Lớp học phần: 58KTPM
@@ -36,7 +36,30 @@ Tại php MyAdmin:  Lập bảng và nhập các Dl cho bảng
 
 
 
+
+
+<img width="1787" height="928" alt="image" src="https://github.com/user-attachments/assets/c9e8a6f3-e6f9-48ff-b1e3-ce9658f7bf74" />
    
 
 
+
+
+Cấu hình đăng nhập trên nodered
+
+
+
+
+<img width="1171" height="698" alt="image" src="https://github.com/user-attachments/assets/b93126fe-7368-47e8-8ba2-fa673e03bd30" />
+
+
+
+
+
+Tạo file html D:\k58ktp\nginx\html 
+
+
+
+
+
+<img width="1187" height="547" alt="image" src="https://github.com/user-attachments/assets/e64a65e9-2e08-475a-804e-4877fb918f41" />
 
