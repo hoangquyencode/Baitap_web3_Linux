@@ -63,3 +63,18 @@ Tạo file html D:\k58ktp\nginx\html
 
 <img width="1187" height="547" alt="image" src="https://github.com/user-attachments/assets/e64a65e9-2e08-475a-804e-4877fb918f41" />
 
+
+
+
+5. Nginx làm web-server
+ - Cấu hình nginx để chạy được website qua url http://fullname.com  (thay fullname bằng chuỗi ko dấu viết liền tên của bạn)
+ - Cấu hình nginx để http://fullname.com/nodered truy cập vào nodered qua cổng 80, (dù nodered đang chạy ở port 1880)
+ - Cấu hình nginx để http://fullname.com/grafana truy cập vào grafana qua cổng 80, (dù grafana đang chạy ở port 3000)
+
+
+
+
+
+<img width="1185" height="566" alt="image" src="https://github.com/user-attachments/assets/e1b0cfb8-78e4-48e8-9c26-9c271c63e824" />
+
+
