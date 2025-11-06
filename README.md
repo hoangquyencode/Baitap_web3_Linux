@@ -75,7 +75,8 @@ Tạo file html D:\k58ktp\nginx\html
 
 
 
-<img width="1881" height="484" alt="image" src="https://github.com/user-attachments/assets/dc831e85-4a40-4774-be51-5a59bdae5cf4" />
+<img width="1883" height="579" alt="image" src="https://github.com/user-attachments/assets/872ffe70-e0d9-43ec-bcc8-dc0bf2e39d2b" />
+
 
 
 
