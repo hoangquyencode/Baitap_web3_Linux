@@ -55,6 +55,12 @@ Cấu hình đăng nhập trên nodered
 
 
 
+![Uploading image.png…]()
+
+
+
+
+
 Tạo file html D:\k58ktp\nginx\html 
 
 
@@ -79,4 +85,5 @@ Tạo file html D:\k58ktp\nginx\html
 
 
 
+  
 
