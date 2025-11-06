@@ -67,14 +67,15 @@ Tạo file html D:\k58ktp\nginx\html
 
 
 5. Nginx làm web-server
- - Cấu hình nginx để chạy được website qua url http://beachip.com:8888/  (thay fullname bằng chuỗi ko dấu viết liền tên của bạn)
- - Cấu hình nginx để http://beachip.com:8888/nodered truy cập vào nodered qua cổng 80, (dù nodered đang chạy ở port 1880)
- - Cấu hình nginx để http://beachip.com:8888/grafana truy cập vào grafana qua cổng 80, (dù grafana đang chạy ở port 3000)
+ - Cấu hình nginx để chạy được website qua url http://beachip.com/  (thay fullname bằng chuỗi ko dấu viết liền tên của bạn)
+ - Cấu hình nginx để http://beachip.com/nodered truy cập vào nodered qua cổng 80, (dù nodered đang chạy ở port 1880)
+ - Cấu hình nginx để http://beachip.com/grafana truy cập vào grafana qua cổng 80, (dù grafana đang chạy ở port 3000)
 
 
 
 
 
-<img width="1185" height="566" alt="image" src="https://github.com/user-attachments/assets/e1b0cfb8-78e4-48e8-9c26-9c271c63e824" />
+<img width="1881" height="484" alt="image" src="https://github.com/user-attachments/assets/dc831e85-4a40-4774-be51-5a59bdae5cf4" />
+
 
 
