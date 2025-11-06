@@ -54,6 +54,8 @@ Cấu hình đăng nhập trên nodered
 
 
 
+  Test đăng nhập 
+
 
 <img width="1839" height="916" alt="image" src="https://github.com/user-attachments/assets/51d5da97-9a15-44e5-abb3-a66e88e92036" />
 
