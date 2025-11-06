@@ -55,7 +55,8 @@ Cấu hình đăng nhập trên nodered
 
 
 
-![Uploading image.png…]()
+<img width="1839" height="916" alt="image" src="https://github.com/user-attachments/assets/51d5da97-9a15-44e5-abb3-a66e88e92036" />
+
 
 
 
@@ -68,6 +69,8 @@ Tạo file html D:\k58ktp\nginx\html
 
 
 <img width="1187" height="547" alt="image" src="https://github.com/user-attachments/assets/e64a65e9-2e08-475a-804e-4877fb918f41" />
+
+
 
 
 
